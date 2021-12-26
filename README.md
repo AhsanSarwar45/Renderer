@@ -1,0 +1,1 @@
+A rudimentary rasterizer created as a learning exercise following the lessons at https://github.com/ssloy/tinyrenderer.
